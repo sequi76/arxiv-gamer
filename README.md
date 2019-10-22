@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sequi76/arxiv-gamer/master)
+
+
 # Arxiv-Gamer
 
 ## Applying Latent Dirichlet Allocation (LDA) to the Arxiv to infer user preferences
