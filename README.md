@@ -22,6 +22,8 @@
 
 ## For the future
 
+- Something very doable: include hep-ph and cond-mat databases so that other colleagues can join.  This is as easy as managing to download the last ~10k papers in those fields and put their title and abstract in a Dataframe.
+
 - Many ideas in how to convert this little game into a powerful tool for the community..
 
 - More work & volunteers are needed..
