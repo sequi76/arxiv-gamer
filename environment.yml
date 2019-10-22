@@ -3,9 +3,6 @@ channels:
 dependencies:
   - appmode
 dependencies:
-- python>=3.5
-- anaconda
-- pip
 - pip:
    - tensorboard==1.14.0
    - tensorflow==1.14.0
