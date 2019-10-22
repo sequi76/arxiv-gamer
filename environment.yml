@@ -2,6 +2,9 @@ channels:
   - conda-forge
 dependencies:
   - appmode
+  - python = 3.7
+  - pip
+  pip:
   - tensorboard==1.14.0
   - tensorflow==1.14.0
   - tensorflow-estimator==1.14.0
