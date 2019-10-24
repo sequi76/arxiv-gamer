@@ -13,7 +13,7 @@
 
 - Go to https://mybinder.org/ and create a running environment for this repo by indicating this url: https://github.com/sequi76/arxiv-gamer (it may take ~5m to create the environment)
 
-- Once the environment was created, click on the notebook gamer.ipynb and open the notebook
+- Once the environment was created, open the notebook gamer_hep-ph.ipynb or gamer_hep-th.ipynb according to your field.  (Yes, I know, one could in principle merge all together and let the machine decide..., but at this stage it is easier like this...)
 
 - Press shift-enter in each cell until you get to the "Learn your preferences" section.  Once there, press shift-enter and the machine will show you a title+abstract from the arxiv and ask you for your score between -10 (worst) to +10 (best).  Put your score and press enter.  Do this with a total of 15 papers.
 
