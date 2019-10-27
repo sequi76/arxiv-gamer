@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sequi76/arxiv-gamer/master)
 
 
-# Arxiv-Gamer: you are invited to play and to participate!
+# Arxiv-Gamer
 
 ## Applying Latent Dirichlet Allocation (LDA) to the Arxiv to infer user preferences
 
@@ -29,7 +29,7 @@
 
 - Many ideas in how to convert this little game into a powerful tool for the community..
 
-- More work & volunteers are needed..
+- More work & volunteers are needed..(Human resources for Machine Learning...a paradox)
 
 
 Ezequiel (sequi@unsam.edu.ar)
